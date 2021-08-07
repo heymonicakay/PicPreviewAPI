@@ -9,6 +9,7 @@ djangorestframework = "*"
 django-cors-headers = "*"
 autopep8 = "*"
 pylint-django = "*"
+pillow = "*"
 
 [dev-packages]
 
