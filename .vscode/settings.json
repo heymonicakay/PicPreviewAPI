@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "/Users/monicakay/.local/share/virtualenvs/pic-preview-django-3SZKulM3/bin/python",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Pic Preview API",
+            "database": "./db.sqlite3"
+        }
+    ],
+    "python.linting.pylintArgs": [
+    "--load-plugins=pylint_django",
+    "--django-settings-module=picpreview.settings",
+    ],
+}
